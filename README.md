@@ -25,6 +25,15 @@ FinLife is an interactive and immersive game where players navigate through diff
 - **Consequences**: Experience the consequences of choices and witness the character's life journey.
 - **Interactive UI**: Enjoy an interactive user interface with appealing visuals and animations.
 
+  
+## Technologies Used
+
+- **React.js**
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+
 npm run start
 
 ![Screenshot 1](https://github.com/HackerTanveer/FinLife/assets/146033345/d68d6568-2679-46bf-aece-9199a2f78ce5)
@@ -32,13 +41,10 @@ npm run start
 ![Screenshot 3](https://github.com/HackerTanveer/FinLife/assets/146033345/dff061fa-50b1-4426-a1a7-cc486dbe9dd0)
 ![Screenshot 4](https://github.com/HackerTanveer/FinLife/assets/146033345/1122105a-cd40-4321-99d5-f4dc1aaec773)
 ![Screenshot 5](https://github.com/HackerTanveer/FinLife/assets/146033345/eaf77e2f-3daf-4c5f-b4d7-dd59eb30b5e9)
+![image](https://github.com/HackerTanveer/FinLife/assets/146033345/db75d352-f611-4aaf-8b8f-e2c40e5198b8)
+![image](https://github.com/HackerTanveer/FinLife/assets/146033345/2724c451-ae79-406c-8fa3-0322d5d59edd)
 
-## Technologies Used
 
-- **React.js**
-- **HTML**
-- **CSS**
-- **JavaScript**
 
 ## Getting Started
 

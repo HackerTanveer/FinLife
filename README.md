@@ -33,12 +33,12 @@ npm run start
 ![Screenshot 4](https://github.com/HackerTanveer/FinLife/assets/146033345/1122105a-cd40-4321-99d5-f4dc1aaec773)
 ![Screenshot 5](https://github.com/HackerTanveer/FinLife/assets/146033345/eaf77e2f-3daf-4c5f-b4d7-dd59eb30b5e9)
 
-##Technologies Used
+## Technologies Used
 
-**- **React.js**
-**- **HTML**
-**- **CSS**
-**- **JavaScript**
+- **React.js**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## Getting Started
 
